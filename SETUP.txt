@@ -1,0 +1,25 @@
+Canadiana Crawler Setup
+=======================
+
+1) Create and activate a virtual environment
+
+   python3 -m venv .venv
+   source .venv/bin/activate
+
+2) Install dependencies
+
+   pip install --upgrade pip
+   pip install -r requirements.txt
+
+3) Run a quick dry run
+
+   python3 canadiana_crawler.py https://heritage.canadiana.ca/view/oocihm.lac_reel_c3026/ --dry-run
+
+4) Download all pages
+
+   python3 canadiana_crawler.py https://heritage.canadiana.ca/view/oocihm.lac_reel_c3026/ --output-dir c3026_pages
+
+Optional flags:
+- --start <N> --end <M>     Download a page range only
+- --workers <N>             Number of parallel downloads (default: 4)
+- --overwrite               Re-download existing files
