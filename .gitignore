@@ -1,0 +1,41 @@
+# OCR scratch directories (preprocessed images + per-page OCR text)
+.stg_api8_img/
+.stg_ocrspace/
+.stg_ocrspace_api8/
+.stg_proc/
+stg_pages/
+
+# Downloaded / derived page images used for inspection
+*.jpg
+*.jpeg
+*.png
+
+# Intermediate extraction candidates and snippets
+stg_baptism_candidates.txt
+stg_baptism_candidate_snippets.txt
+
+# Superseded extraction passes (final outputs are committed)
+st_georges_baptism_entries_best_effort.*
+st_georges_baptism_entries_best_effort_table.txt
+st_georges_baptism_entries_child_focus.*
+st_georges_baptism_entries_child_focus_table.txt
+st_georges_baptism_entries_normalized.csv
+st_georges_baptism_entries_normalized_table.txt
+
+# Crawler output directories
+c3026_pages/
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editor / OS noise
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
