@@ -1,0 +1,133 @@
+year,page,names,confidence
+1786,591,Margaret,high
+1788,585,Thomas,high
+1789,581,Mary; Basil; Hannah,high
+1789,581,Simon; Mary; Andrew,medium
+1789,583,Angus; William; Richard,high
+1790,578,John; Simon; Catharine; Mary; Margaret; Jane,high
+1790,578,Martha,high
+1791,574,Charles; Hugh; Daniel; Ann; Mark,high
+1791,574,Susan; Anna,high
+1791,575,Ellen; Sophia; Maria,high
+1791,575,Jean; James; Maria,high
+1791,575,John,medium
+1791,576,Sophia; Jane; James,high
+1791,578,Catharine; Mary; Margaret; Jane; Janet,high
+1791,578,Alan; James; John; Catharine,high
+1792,573,Maria; Allan; Philip,high
+1792,573,Philip; John,high
+1792,574,Charles; Hugh; Daniel; Ann; Mark,high
+1793,569,Simon; Thomas,high
+1793,570,William; John,high
+1793,571,William; John,high
+1793,571,Margaret,high
+1793,572,Agnes; Joseph; Allan,high
+1793,572,James; Mary; Thomas,high
+1793,572,John; Joseph; Elizabeth,high
+1793,572,Samuel; John; Joseph,high
+1793,572,James; Catharine,high
+1793,633,Andrew; Janet; Thomas; Margaret; Jean,high
+1794,567,John,high
+1794,569,John; Mary,high
+1795,564,Mary; Thomas; William; Francis; Samuel,high
+1795,564,Thomas; William; Francis; Samuel; Catherine,low
+1795,564,Francis; John,low
+1795,565,William; John; Benjamin,low
+1795,565,Ann; John,high
+1795,568,Peter; William; John,high
+1796,560,Robert; Janet; Peter; Maria,high
+1797,639,William; Joanna; Nicholas,high
+1797,639,Nicholas; Harriet,high
+1797,639,Thomas; Mark,high
+1798,633,Charles; James,high
+1798,635,Martha,high
+1799,583,Angus; William; Richard,high
+1799,583,John; Maria; Hannah,high
+1799,584,Samuel; Robert; Henry; Mark,high
+1799,630,John; Maria,high
+1799,630,Catharine,high
+1799,631,William; John; Jane,high
+1799,631,Mary,high
+1799,635,Ann; Angus; Frances,high
+1800,624,William; Maria,high
+1800,626,John; Angus; Peter; Nicholas,high
+1800,626,John; Mary; Ann; George,high
+1800,627,Ann; Agnes; Sarah,high
+1800,627,James,high
+1801,618,James; John; Mary,high
+1801,618,Ann; Mary,high
+1801,619,Henry; Harriet,high
+1801,620,Mary; Harriet; Hugh; Margaret,high
+1801,620,John; Mary; Harriet,high
+1801,622,John; Mark; Peter; Hannah; Ann,high
+1801,622,Thomas; Mary; Ann; John; Walter,high
+1801,622,Peter; Hannah; Ann; Thomas,high
+1801,622,William; John; Charlotte,high
+1801,623,Moses; Anna; James,high
+1801,623,Anna; James; George,low
+1801,623,George; Philip,high
+1802,602,John; James,high
+1802,611,Alan; Thomas; Mary; Allan; Janet,high
+1802,611,Mary; Allan; Janet; Jane; Ann,high
+1802,612,John; Mary; Anna; Mathew; Mark,high
+1802,612,Mary; Jane; John; Ann,high
+1802,612,Janet,high
+1802,613,John; Mary; Anna; Mathew; Martha; Charles,high
+1802,613,Mary; Jane; Anna; John,high
+1802,614,Anna; Peter; Thomas; David; Jane,high
+1802,614,Mary; Louisa; Hannah,high
+1802,614,Angus; John,high
+1802,616,John; Ann,high
+1802,616,Thomas; James,high
+1803,603,Janet,high
+1803,607,Alan; Moses; Hannah,high
+1803,607,Jean; Sophia,high
+1803,607,John; Henry,high
+1803,607,John; Jean,high
+1803,607,Alexander,high
+1803,608,David; Daniel; James,high
+1803,608,Donald; Marion; Joanna,high
+1803,608,Allan; Thomas,high
+1803,609,Mabel; Maria; Sarah,high
+1804,595,Richard; Thomas; John,high
+1804,595,William; Ann; John,high
+1804,595,Maria; Mary,medium
+1804,597,Henry; Alan,high
+1804,597,Mary,high
+1804,598,John; Ann; Jane; George,high
+1804,598,Hannah; John; Ann,high
+1804,598,Charlotte; Mary,high
+1804,599,Francis; John; Thomas; Sarah; Louisa,high
+1804,599,Ann; Isabel; John; James,high
+1804,599,Joanna; Mabel; Philip; Thomas,high
+1804,599,John; James; Jane; Francis,high
+1804,599,Philip; Thomas; Hannah; John,high
+1804,600,Sarah; Elizabeth; Edward; Ellen,high
+1804,601,Simon,high
+1805,594,Ann; Isaac; John; Henry; Susan,high
+1805,595,Mary; Basil; William; James; Henry,high
+1805,596,Ann; Louisa; Mark; Martha; James,high
+1811,619,William; James; John; Mary; Barnabas; Samuel,high
+1811,619,Ann; Mary,high
+Unknown,561,Walter; Thomas,low
+Unknown,561,William; Sarah,low
+Unknown,577,Angus; Ann,low
+Unknown,577,David; Peter,low
+Unknown,580,Alan; Basil; John; Anna,low
+Unknown,580,Hannah; Basil,low
+Unknown,580,James; Allan,low
+Unknown,580,Robert; Mary,low
+Unknown,588,Basil,low
+Unknown,588,Margaret,low
+Unknown,593,Ann,low
+Unknown,610,Ann; John,low
+Unknown,625,John; Mary; Harriet; Thomas,low
+Unknown,632,Mary; Ann,low
+Unknown,637,Peter; Margaret; Charlotte; Samuel; Mary; Mathew,low
+Unknown,638,Mary; Marion; Angus; Ann; Maria,low
+Unknown,638,Sarah; John,low
+Unknown,638,Simon; Basil,low
+Unknown,640,James,low
+Unknown,643,Jane; Simon,low
+Unknown,646,Francis,low
+Unknown,647,James,low
