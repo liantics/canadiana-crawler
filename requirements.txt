@@ -1,2 +1,11 @@
-# This project uses only Python standard library modules.
+# canadiana_crawler.py uses only Python standard library modules.
 # Kept for consistent virtualenv setup workflows.
+#
+# process_pages.py additionally needs the packages below. Uncomment them (or
+# install directly) if you plan to run the PDF/OCR/extraction pipeline:
+#
+# Pillow
+# img2pdf
+# pikepdf
+#
+# The `ocr` subcommand also needs the Tesseract binary (macOS: brew install tesseract).

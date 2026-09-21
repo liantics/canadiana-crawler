@@ -26,6 +26,12 @@ st_georges_baptism_entries_normalized_table.txt
 c3026_pages/
 output/
 
+# process_pages.py default outputs
+ocr_text/
+baptism_entries.csv
+baptism_entries.txt
+baptism_entries.json
+
 # Python
 __pycache__/
 *.py[cod]
